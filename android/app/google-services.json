@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "589374178240",
+    "project_id": "satiated-life",
+    "storage_bucket": "satiated-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589374178240:android:ec26270cd2e82ff8acbe25",
+        "android_client_info": {
+          "package_name": "com.satiated.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589374178240-cvhsg0r0ppsmc5kp3ffa7v7c8juk3ihk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satiated.life",
+            "certificate_hash": "a51ea1d41e8a667e3bddc193bdd108a504b0d44a"
+          }
+        },
+        {
+          "client_id": "589374178240-jl5b6t208uflq93r6lh3q398tdjl1c0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satiated.life",
+            "certificate_hash": "63509103a62229aea257adf9febe8f3482fa489e"
+          }
+        },
+        {
+          "client_id": "589374178240-lckosivnrthtecc5bbe2qoovr0k8vtsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satiated.life",
+            "certificate_hash": "c4c78f8fad1b9ec87dd52fac579a4ed5b20935a1"
+          }
+        },
+        {
+          "client_id": "589374178240-9ucmve7msjchv5jad0gnc72qbmi5dbhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3P7L4r-BVC0xSDgAyD6rSFiC623O1Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589374178240-9ucmve7msjchv5jad0gnc72qbmi5dbhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
