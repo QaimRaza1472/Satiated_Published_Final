@@ -27,6 +27,9 @@ class Syncronization {
     }
   }
 
+
+
+
   getPreviousIntesnsion(String uid) async {
     var url = Uri.parse(
         'https://interesting-bartik.66-165-248-146.plesk.page/api/BusyHour/Getpreviousintension?uid=$uid');
